@@ -23,9 +23,9 @@ Bienvenidos Moradores del yermo, Legionarios, miembros de la NCR, Saqueadores, C
 
 **Github** https://github.com/tgstation/tgstation
 
-**Website:** https://www.tgstation13.org
+**Sitio web de TG:** https://www.tgstation13.org
 
-**Code:** https://github.com/tgstation/tgstation
+**Código:** https://github.com/tgstation/tgstation
 
 **Wiki** https://tgstation13.org/wiki/Main_Page
 
