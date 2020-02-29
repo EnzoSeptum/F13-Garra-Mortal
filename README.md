@@ -1,20 +1,25 @@
-## F13 codebase 
+## Fallout 13: Garra Mortal
+Bienvenidos Moradores del yermo, Legionarios, miembros de la NCR, Saqueadores, Ciudadanos de Kebab, miembros de la Hermandad del acero y a los fanáticos de Fallout. **Habeís llegado a Fallout 13: Garra Mortal**
 
-[![Build Status](https://travis-ci.org/BadDeathclaw/TG-Claw.svg?branch=master)](https://travis-ci.org/BadDeathclaw/TG-Claw) [![Krihelimeter](https://www.krihelinator.xyz/badge/BadDeathclaw/TG-Claw)](http://www.krihelinator.xyz/repositories/BadDeathclaw/TG-Claw) 
+*¿Qué es Fallout 13: Garra Mortal?*
 
-[![Percentage of issues still open](https://isitmaintained.com/badge/open/BadDeathclaw/TG-Claw.svg)](https://isitmaintained.com/project/BadDeathclaw/TG-Claw "Percentage of issues still open") [![Average time to resolve an issue](https://isitmaintained.com/badge/resolution/BadDeathclaw/TG-Claw.svg)](https://isitmaintained.com/project/BadDeathclaw/TG-Claw "Average time to resolve an issue")  
+**Fallout 13: Garra Mortal** es un servidor de SS13 F13 completamente traducido en Español y hosteado en Byond por Reido y GranBruh. Este servidor se creó debido a la muerte de uno de los servidores más divertidos llamado **Bad Deathclaw**, hecho para las personas que aman los viejos y clásicos juegos de Fallout o simplemente quieren hacer RP en una átmosfera diferente a lo visto en **Hispania**. Estamos mejorando el legado de BD, así que sientete libre de contribuir y echar vistazo a lo que podrías agregar a **Garra Mortal**, unete al Discord para seguir de cerca todo lo que hemos hecho o lo que estamos haciendo o darnos algún consejo. ¿Eres un enfermo que solo busca hacer ERP? ¿Cansado de lo retrógrada que pueden llegar a ser los servidores en Español de SS13? ¿Echas de menos los viejos Fallout 13?, o quizás, ¿Solo quieres matar a un bastardo legionario o un maldito "crápula" usando solamente tus manos? ¿Quieres empezar un negocio en el Yermo? ¿Quieres convertirte en un Saqueador o un esclavista racista? ¿Quieres crear una pandilla de Saqueadores y Grandes Khan? ¿Quieres ser un miembro de la Hermandad del acero e ir a buscar tecnología avanzada? Visitarás muchos lugares alrededor del Yermo, ¡MUCHOS! ¿Quieres divertirte? La respuesta a todo eso es SÍ y aquí tendrás eso y mucho más. **¡Pasáte por el servidor de Garra Mortal!**
+## Código de F13
+
+[![Build Status](https://travis-ci.org/BadDeathclaw/TG-Claw.svg?branch=master)](https://travis-ci.com/EnzoSeptum/F13-Garra-Mortal) [![Krihelimeter](http://www.krihelinator.xyz/badge/EnzoSeptum/F13-Garra-Mortal)](http://www.krihelinator.xyz/repositories/EnzoSeptum/F13-Garra-Mortal) 
+
+[![Percentage of issues still open](https://isitmaintained.com/badge/open/BadDeathclaw/TG-Claw.svg)](https://isitmaintained.com/project/BadDeathclaw/TG-Claw "Percentage of issues still open") [![Average time to resolve an issue](https://isitmaintained.com/badge/resolution/BadDeathclaw/TG-Claw.svg)](https://isitmaintained.com/project/BadDeathclaw/TG-Claw "Tiempo promedio para resolver un problema")  
 [![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com) [![worksonmymachine](https://img.shields.io/badge/works--on-_my--machine-yellowgreen.svg?longCache=true&style=for-the-badge)](https://shields.io) [![forinfinityandbyond](https://user-images.githubusercontent.com/5211576/29499758-4efff304-85e6-11e7-8267-62919c3688a9.gif)](https://www.reddit.com/r/SS13/comments/5oplxp/what_is_the_main_problem_with_byond_as_an_engine/dclbu1a)
 
-**Discord** https://discord.gg/TCj5cJN
+**Discord** https://discord.gg/vRGYdVK
 
-## Notes from F13
+## Notas de F13
 
-Fallout 13 Alpha 0.5 Terms of service A friendly reminder to anyone who would like to create personal edition of a game to host a server
-while keeping the code base private - a source code is licensed under /tg/ Station 13 terms, and thus rendering your project closed-source will likely cause considerable sanctions on their behalf. onestly, we tried it ourselves - it didn't work, and Byond administration officially disabled one of our servers for violation of licensing terms - don't repeat our mistakes. 
+"Fallout 13 Alpha 0.5 Terms of service" son un recordatorio para cualquier persona que quiera crear un servidor usando el "Fallout 13 source code" - el código fuente se licencia bajo los términos /tg/ Station 13 y, por lo tanto, hacer que el desarollo de tu proyecto sea privado probablemente causará sanciones. Por ejemplo; Bad Deathclaw probó hacer eso y no funcionó, la administración de Byond deshabilitó oficialmente uno de sus servidores por violación de los términos de licencia, no repitas ese error si quieres crear tu servidor.
 
-**Please carefully read the following statement**: If you desire to host your own server based of Fallout 13 source code - you may not pretend to be an "Official Fallout 13" community. The only Fallout 13 communities that are considered official at the moment are specified as: [EN] Fallout 13 - Vault One [RU] Fallout 13 - CBET ATOMA ( Light of the Atom ) By our terms and conditions we require any potential host to specify that they are an unofficial server in announcements and the Byond HUB. Stated terms of service fully comply with the original AGPL v3 license of /tg/ Station 13, as long as this applies to the running server of unofficial community.
+**Lee atentamente la siguiente declaración:** Si deseas hostear tu propio servidor basado en el código original de Fallout 13 - no puedes pretender ser la "Comunidad oficial de Fallout 13", solo hay una comunidad de Fallout 13 que se considera oficial ahora mismo y se llama: [EN] Fallout 13 - Vault One [RU] Fallout 13 - CBET ATOMA ( Light of the Atom ). Según los términos y condiciones, se requiere que cualquier host especifique que su servidor no es oficial en cualquier tipo de propaganda o en el HUB de Byond. Los términos de servicio establecidos cumplen totalmente con la licencia AGPL v3 original de /tg/ Station 13, siempre que esto se aplique a un servidor no oficial.
 
-## /tg/station codebase
+## Código fuente de /tg/station
 
 **Github** https://github.com/tgstation/tgstation
 
@@ -24,158 +29,114 @@ while keeping the code base private - a source code is licensed under /tg/ Stati
 
 **Wiki** https://tgstation13.org/wiki/Main_Page
 
-**IRC:** irc://irc.rizon.net/coderbus or if you dont have an IRC client, you can click  [here](https://kiwiirc.com/client/irc.rizon.net:6667/?&theme=cli#coderbus)
+**IRC:** irc://irc.rizon.net/coderbus o en caso de no tener IRC, puedes hacer clic [Aquí](https://kiwiirc.com/client/irc.rizon.net:6667/?&theme=cli#coderbus)
 
  
-## DOWNLOADING
+## DESCARGAR
 
-There are a number of ways to download the source code. Some are described here, an alternative all-inclusive guide is also located at https://www.tgstation13.org/wiki/Downloading_the_source_code
+Hay varias formas de descargar el código fuente, algunas de esas formas se describen aquí, en esta guía https://www.tgstation13.org/wiki/Downloading_the_source_code
 
-Option 1:
-Follow this: https://www.tgstation13.org/wiki/Setting_up_git
+Opción 1:
+Sigue esto: https://www.tgstation13.org/wiki/Setting_up_git
 
-Option 2: Download the source code as a zip by clicking the ZIP button in the
-code tab of https://github.com/tgstation/tgstation
-(note: this will use a lot of bandwidth if you wish to update and is a lot of
-hassle if you want to make any changes at all, so it's not recommended.)
+Opción 2: Descarga el código fuente en .zip haciendo clic en el botón ZIP en la
+pestaña "code" de https://github.com/tgstation/tgstation
+(nota: esto usará mucho ancho de banda si deseas estar actualizandolo, por lo que no se recomienda.)
 
-Option 3: Download a pre-compiled nightly at https://tgstation13.download/nightlies/ (same caveats as option 2)
+Opción 3: Descarga el archivo pre-compilado en https://tgstation13.download/nightlies/ (mismas inconveniencias que la opción 2)
 
-## INSTALLATION
+## INSTALACIÓN
 
-First-time installation should be fairly straightforward. First, you'll need
-BYOND installed. You can get it from https://www.byond.com/download. Once you've done
-that, extract the game files to wherever you want to keep them. This is a
-sourcecode-only release, so the next step is to compile the server files.
-Open tgstation.dme by double-clicking it, open the Build menu, and click
-compile. This'll take a little while, and if everything's done right you'll get
-a message like this:
+La instalación es bastante sencilla. Primero, necesitarás tener
+BYOND instalado, puedes obtener BYOND en https://www.byond.com/download. Una vez que hayas hecho lo anterior, extrae los archivos del juego a donde quieras guardarlos y el siguiente paso es compilar los archivos del servidor.
+Abre tgstation.dme haciendo doble clic en él, abre el menú Build y haz clic en
+"compile". Eso tomará un poco de tiempo, y si todo está bien, obtendrás
+un mensaje como este:
 
 ```
 saving tgstation.dmb (DEBUG mode)
 tgstation.dmb - 0 errors, 0 warnings
 ```
 
-If you see any errors or warnings, something has gone wrong - possibly a corrupt
-download or the files extracted wrong. If problems persist, ask for assistance
-in irc://irc.rizon.net/coderbus
+Si ves algún error o advertencia, algo salió mal, posiblemente una descarga corrupta 
+o los archivos fueron extraídos incorrectamente. Si los problemas persisten, solicita ayuda
+en https://discord.gg/Vh8TJp9
 
-Once that's done, open up the config folder. You'll want to edit config.txt to
-set the probabilities for different gamemodes in Secret and to set your server
-location so that all your players don't get disconnected at the end of each
-round. It's recommended you don't turn on the gamemodes with probability 0,
-except Extended, as they have various issues and aren't currently being tested,
-so they may have unknown and bizarre bugs. Extended is essentially no mode, and
-isn't in the Secret rotation by default as it's just not very fun.
-
-You'll also want to edit config/admins.txt to remove the default admins and add
-your own. "Game Master" is the highest level of access, and probably the one
-you'll want to use for now. You can set up your own ranks and find out more in
+Cuando hayas hecho todo eso, abre una carpeta llamada "config", en la cual podrás editar "config.txt" para
+configurar tu servidor. 
+Se recomienda que pongas una probabilidad 0 a todos los modos de juego excepto en el modo Extended,
+ya que los demás tienen varios problemas y no se están siendo usados actualmente. 
+Extended no es ningún modo, y no está en la rotación de modos por defecto porque no es muy divertido.
+También deberías editar config/admins.txt para eliminar los administradores predeterminados y agregar
+tu staff propio. "Game Master" o "Host" es el nivel más alto de acceso, y probablemente el
+querrás usar, puedes configurar los rangos y obtener más información en
 config/admin_ranks.txt
 
-The format is
+El formato es
 
 ```
 byondkey = Rank
 ```
 
-where the admin rank must be properly capitalised.
+Aquí el rango de administrador debe estar correctamente escrito.
 
-This codebase also depends on a native library called rust-g. A precompiled
-Windows DLL is included in this repository, but Linux users will need to build
-and install it themselves. Directions can be found at the [rust-g
+Esta codebase también depende de una biblioteca nativa llamada rust-g. 
+En este repositorio se incluye un precompilado DLL de Windows, pero los usuarios de Linux deberán compilar
+e instalarlo por ellos mismos. Las instrucciones se pueden encontrar en el [rust-g
 repo](https://github.com/tgstation/rust-g).
 
-Finally, to start the server, run Dream Daemon and enter the path to your
-compiled tgstation.dmb file. Make sure to set the port to the one you
-specified in the config.txt, and set the Security box to 'Safe'. Then press GO
-and the server should start up and be ready to join. It is also recommended that
-you set up the SQL backend (see below).
+Finalmente, para iniciar el servidor, ejecuta Dream Daemon e ingresa la ruta a tu
+archivo compilado tgstation.dmb. Asegúrate de poner el mismo puerto que pusiste
+en config.txt, y establece el cuadro de Seguridad en modo "Safe". Luego presiona GO
+y el servidor debe iniciarse y estar listo para que cualquier persona pueda unirse. T
+ambién se recomienda que configures el SQL (ver más abajo).
 
-## UPDATING
+## ACTUALIZANDO
 
-To update an existing installation, first back up your /config and /data folders
-as these store your server configuration, player preferences and banlist.
-
-Then, extract the new files (preferably into a clean directory, but updating in
-place should work fine), copy your /config and /data folders back into the new
-install, overwriting when prompted except if we've specified otherwise, and
-recompile the game.  Once you start the server up again, you should be running
-the new version.
+Para actualizar una instalación existente, primero haz una copia de seguridad de tus carpetas /config y /data
+ya que almacenan la configuración del servidor, los ajustes guardados de los jugadores y la lista de baneos.
+Luego, extrae los archivos nuevos (preferiblemente en un directorio limpio, pero actualizándolos en
+el mismo lugar debería funcionar), copia tus carpetas /config y /data nuevamente en el nuevo
+archivo, dale a sobrescribir cuando se te abra la ventanita de Windows que lo solicita y
+recompila el juego. Una vez que vuelvas a iniciar el servidor, deberías estar ejecutando
+la nueva versión que metiste.
 
 ## HOSTING
 
-If you'd like a more robust server hosting option for tgstation and its
-derivatives. Check out our server tools suite at 
+Si quieres una opción de alojamiento de servidor más robusta para tgstation y sus
+derivados. Echa un vistazo aquí 
 https://github.com/tgstation/tgstation-server
 
-## MAPS
+## MAPAS
 
-/tg/station currently comes equipped with five maps.
+/tg/ station actualmente viene junto a cinco mapas.
 
-* [BoxStation (default)](https://tgstation13.org/wiki/Boxstation)
+* [BoxStation (el principal)](https://tgstation13.org/wiki/Boxstation)
 * [MetaStation](https://tgstation13.org/wiki/MetaStation)
 * [DeltaStation](https://tgstation13.org/wiki/DeltaStation)
 * [OmegaStation](https://tgstation13.org/wiki/OmegaStation)
 * [PubbyStation](https://tgstation13.org/wiki/PubbyStation)
 
 
-All maps have their own code file that is in the base of the _maps directory. Maps are loaded dynamically when the game starts. Follow this guideline when adding your own map, to your fork, for easy compatibility.
+Todos los mapas tienen su propio archivo de código que se encuentra en la base del directorio _maps. Los mapas se cargan dinámicamente cuando comienza el juego. Sigue la guía original de tg cuando vayas a agregar tu propio mapa, a tu fork, para una compatibilidad más sencilla.
 
-The map that will be loaded for the upcoming round is determined by reading data/next_map.json, which is a copy of the json files found in the _maps tree. If this file does not exist, the default map from config/maps.txt will be loaded. Failing that, BoxStation will be loaded. If you want to set a specific map to load next round you can use the Change Map verb in game before restarting the server or copy a json from _maps to data/next_map.json before starting the server. Also, for debugging purposes, ticking a corresponding map's code file in Dream Maker will force that map to load every round.
+## CONFIGURAR SQL
 
-If you are hosting a server, and want randomly picked maps to be played each round, you can enable map rotation in [config.txt](config/config.txt) and then set the maps to be picked in the [maps.txt](config/maps.txt) file.
-
-Anytime you want to make changes to a map it's imperative you use the [Map Merging tools](https://tgstation13.org/wiki/Map_Merger)
-
-## AWAY MISSIONS
-
-/tg/station supports loading away missions however they are disabled by default.
-
-Map files for away missions are located in the _maps/RandomZLevels directory. Each away mission includes it's own code definitions located in /code/modules/awaymissions/mission_code. These files must be included and compiled with the server beforehand otherwise the server will crash upon trying to load away missions that lack their code.
-
-To enable an away mission open `config/awaymissionconfig.txt` and uncomment one of the .dmm lines by removing the #. If more than one away mission is uncommented then the away mission loader will randomly select one the enabled ones to load.
-
-## SQL SETUP
-
-The SQL backend requires a Mariadb server running 10.2 or later. Mysql is not supported but Mariadb is a drop in replacement for mysql. SQL is required for the library, stats tracking, admin notes, and job-only bans, among other features, mostly related to server administration. Your server details go in /config/dbconfig.txt, and the SQL schema is in /SQL/tgstation_schema.sql and /SQL/tgstation_schema_prefix.sql depending on if you want table prefixes.  More detailed setup instructions are located here: https://www.tgstation13.org/wiki/Downloading_the_source_code#Setting_up_the_database
+Para configurar el SQL se requiere un servidor Mariadb con la versión 10.2 o una posterior. Mysql no es compatible, pero Mariadb es un reemplazo sustitutivo de mysql. Se requiere SQL para la biblioteca, el seguimiento de estadísticas, las notas de administración y los baneos relacionados con roles en el servidor, entre otras características, principalmente relacionadas con la administración del servidor. Los detalles de tu servidor van en /config/dbconfig.txt, y el esquema SQL está en /SQL/tgstation_schema.sql y /SQL/tgstation_schema_prefix.sql. Las instrucciones de configuración más detalladas se encuentran en la guía original de tg:https://www.tgstation13.org/wiki/Downloading_the_source_code#Setting_up_the_database
 
 If you are hosting a testing server on windows you can use a standalone version of MariaDB pre load with a blank (but initialized) tgdb database. Find them here: https://tgstation13.download/database/ Just unzip and run for a working (but insecure) database server. Includes a zipped copy of the data folder for easy resetting back to square one.
 
-## WEB/CDN RESOURCE DELIVERY 
+## CONTRIBUIR
 
-Web delivery of game resources makes it quicker for players to join and reduces some of the stress on the game server.
+Por favor mira el archivo [CONTRIBUTING.md](.github/CONTRIBUTING.md)
 
-1. Edit compile_options.dm to set the `PRELOAD_RSC` define to `0`
-1. Add a url to config/external_rsc_urls pointing to a .zip file containing the .rsc.
-    * If you keep up to date with /tg/ you could reuse /tg/'s rsc cdn at http://tgstation13.download/byond/tgstation.zip. Otherwise you can use cdn services like CDN77 or cloudflare (requires adding a page rule to enable caching of the zip), or roll your own cdn using route 53 and vps providers.
-	* Regardless even offloading the rsc to a website without a CDN will be a massive improvement over the in game system for transferring files.
+## LICENCIA
 
-## IRC BOT SETUP
+Todo el código después de [commit 333c566b88108de218d882840e61928a9b759d8f on 2014/31/12 at 4:38 PM PST](https://github.com/tgstation/tgstation/commit/333c566b88108de218d882840e61928a9b759d8f) está bajo licencia de [GNU AGPL v3](https://www.gnu.org/licenses/agpl-3.0.html).
 
-Included in the repository is a python3 compatible IRC bot capable of relaying adminhelps to a specified
-IRC channel/server, see the /tools/minibot folder for more
+Todo el código antes de [commit 333c566b88108de218d882840e61928a9b759d8f on 2014/31/12 at 4:38 PM PST](https://github.com/tgstation/tgstation/commit/333c566b88108de218d882840e61928a9b759d8f) está bajo licencia de [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html).
+(Incluyendo las tools a menos que el readme de alguna especifique lo contrario.)
 
-## CONTRIBUTING
+Mira LICENSE y GPLv3.txt para más detalles.
 
-Please see [CONTRIBUTING.md](.github/CONTRIBUTING.md)
-
-## LICENSE
-
-All code after [commit 333c566b88108de218d882840e61928a9b759d8f on 2014/31/12 at 4:38 PM PST](https://github.com/tgstation/tgstation/commit/333c566b88108de218d882840e61928a9b759d8f) is licensed under [GNU AGPL v3](https://www.gnu.org/licenses/agpl-3.0.html).
-
-All code before [commit 333c566b88108de218d882840e61928a9b759d8f on 2014/31/12 at 4:38 PM PST](https://github.com/tgstation/tgstation/commit/333c566b88108de218d882840e61928a9b759d8f) is licensed under [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html).
-(Including tools unless their readme specifies otherwise.)
-
-See LICENSE and GPLv3.txt for more details.
-
-tgui clientside is licensed as a subproject under the MIT license.
-Font Awesome font files, used by tgui, are licensed under the SIL Open Font License v1.1
-tgui assets are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
-The TGS3 API is licensed as a subproject under the MIT license.
-
-See tgui/LICENSE.md for the MIT license.
-See tgui/assets/fonts/SIL-OFL-1.1-LICENSE.md for the SIL Open Font License.
-See the footers of code/\_\_DEFINES/server\_tools.dm, code/modules/server\_tools/st\_commands.dm, and code/modules/server\_tools/st\_inteface.dm for the MIT license.
-
-All assets including icons and sound are under a [Creative Commons 3.0 BY-SA license](https://creativecommons.org/licenses/by-sa/3.0/) unless otherwise indicated.
+Todos los activos, incluidos los iconos y el sonido, están bajo una licencia [Creative Commons 3.0 BY-SA license](https://creativecommons.org/licenses/by-sa/3.0/)
